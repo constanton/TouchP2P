@@ -20,6 +20,8 @@ You also need to install the Boost C++ library (for the multi-threading and netw
 ## Set up
 Each haptic device needs to be connected to a PC. Both PCs should belong to the same network and IPs must be defined in the touchp2p.cpp file. Each PC must run the application using the touchp2p.cpp file by assigning the correct IPs at the top of the file.
 
+For your convenience I have also added a Makefile similar to the ones that the OpenHaptics examples use.
+
 ## Future work
 
 There is always room for improvement. Apart from improving the code itself, the PID controller needs fine-tuning.
