@@ -18,7 +18,7 @@ Of course to be able to calibrate and control the haptic devices you need to ins
 You also need to install the Boost C++ library (for the multi-threading and networking functionalities of the code). I recommend downloading the latest version from boost.org.
 
 ## Set up
-Each haptic device needs to be connected to a PC. Both PCs should belong to the same network and IPs must be defined in the touchp2p.cpp file.
+Each haptic device needs to be connected to a PC. Both PCs should belong to the same network and IPs must be defined in the touchp2p.cpp file. Each PC must run the application using the touchp2p.cpp file by assigning the correct IPs at the top of the file.
 
 ## Future work
 
