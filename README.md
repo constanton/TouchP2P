@@ -11,7 +11,7 @@ sudo apt-get install make g++ qt5-default libqt5widgets5 libqt5opengl5 freeglut3
 ```
 **For Fedora**:
 ```
-dnf install make g++ qt5-devel freeglut ncurses-devel zlib-devel)
+dnf install make g++ qt5-devel freeglut ncurses-devel zlib-devel
 ```
 Of course to be able to calibrate and control the haptic devices you need to install the device drivers and OpenHaptics libraries which are currently available (along with installation instructions) on 3dssupport.microsoftcrmportals.com.
 
