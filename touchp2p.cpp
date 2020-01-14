@@ -13,7 +13,7 @@ limitations under the License.
  */
  
  /* 
-  *Special thanks to Professor Marcelo A. C. Fernandez as this code 
+  *Special thanks to Professor Marcelo A. C. Fernandes as this code 
   *is based on previous effort for a similar project.
   * 
   * */
