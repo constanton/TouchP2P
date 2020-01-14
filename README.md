@@ -27,4 +27,4 @@ For your convenience I have also added a Makefile similar to the ones that the O
 There is always room for improvement. Apart from improving the code itself, the PID controller needs fine-tuning.
 Another interesting feature would be to include some stability control algorithm to compensate for latency introduced by the network.
 
-**Special thanks** to Professor Marcelo A. C. Fernandez as this code is based on previous effort for a similar project.
+**Special thanks** to Professor Marcelo A. C. Fernandes as this code is based on previous effort for a similar project.
