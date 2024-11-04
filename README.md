@@ -2,6 +2,8 @@
 
 C/C++ application for bilateral teleoperation (teleoperation with force feedback) with two 3D Systems Touch devices in Position-Position configuration.
 
+You can check my [blog post and demo video here](https://antonakoglou.com/2020/01/15/bilateral-teleoperation/).
+
 This software has been tested under Ubuntu 18.04 and Fedora 30 using 3D Systems Touch (USB interface) and Geomagic Touch (Ethernet interface) devices. The main libraries used for this application are OpenHaptics and Boost C++.
 
 ## Dependencies
